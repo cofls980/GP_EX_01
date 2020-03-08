@@ -26,7 +26,7 @@ SECRET_KEY = 'ox$j&4fcg00grf44yt(a5q*+24#aa=rv8cu8q8rmhyeeg_=+9p'
 DEBUG = True
 
 # possible to connect from remote setting
-ALLOWED_HOSTS = ['192.168.150.10']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
